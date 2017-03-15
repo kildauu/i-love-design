@@ -1,0 +1,74 @@
+body {
+	font-family: 'Segoe UI', serif;
+}
+.top {
+	min-height: 100vh;
+	background-color: #23232e;
+	padding: 50px 0 0;
+}
+.top-title {
+	margin-top: 16vh;
+	color: #fff;
+	font-size: 80px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.text-center {
+	text-align: center;
+}
+.top-title-descr {
+	color: #fff;
+	font-size: 18px;
+	font-weight: 400;
+}
+.top-anchor {
+	display: inline-block;
+	margin-top: 18vh;
+}
+.about {
+	width: 60%;
+	margin: 50px auto;
+}
+.about p {
+	color: ;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 1.4;
+}
+.stuff h2 {
+	color: #464b4f;
+	font-size: 80px;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin: 50px 0;
+}
+.list-unstyled {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.staff-list {
+	width: 60%;
+	margin: 0 auto 50px;
+	font-size: 0;
+}
+.stuff-item {
+	box-sizing: border-box;
+	font-size: 16px;
+	display: inline-block;
+	vertical-align: top;
+	padding-right: 20px;
+	width: 33%;
+}
+.stuff-item h3 {
+	color: #464b4f;
+	font-size: 18px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.stuff-item p {
+	color: #888a8b;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 1.6;
+}
